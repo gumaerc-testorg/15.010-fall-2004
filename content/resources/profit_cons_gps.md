@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Profit Graph.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/9cc693bd42039e852d1739eb2d3a1436_profit_cons_gps.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/9cc693bd42039e852d1739eb2d3a1436_profit_cons_gps.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: profit_cons_gps.pdf
 uid: 9cc693bd-4203-9e85-2d17-39eb2d3a1436

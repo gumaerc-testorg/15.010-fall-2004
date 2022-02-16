@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: The Beer Game, Collusion and Cartels, Numeric Example.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/bc550bd9a3cea26192b5a7e78077d853_beer_gm_col_cart.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/bc550bd9a3cea26192b5a7e78077d853_beer_gm_col_cart.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: beer_gm_col_cart.pdf
 uid: bc550bd9-a3ce-a261-92b5-a7e78077d853

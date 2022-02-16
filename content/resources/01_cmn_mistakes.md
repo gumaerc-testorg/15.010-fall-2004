@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes Common mistakes for 3 problem statements.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/616511f4c8bb78247ec1993edd359713_01_cmn_mistakes.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/616511f4c8bb78247ec1993edd359713_01_cmn_mistakes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 01_cmn_mistakes.pdf
 uid: 616511f4-c8bb-7824-7ec1-993edd359713

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes answers to mid term exam 2004.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/84a9b51a016594beb329de44e9f0f78d_midterm_2004_ans.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/84a9b51a016594beb329de44e9f0f78d_midterm_2004_ans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm_2004_ans.pdf
 uid: 84a9b51a-0165-94be-b329-de44e9f0f78d

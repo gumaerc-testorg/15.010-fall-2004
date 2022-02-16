@@ -2,8 +2,13 @@
 content_type: resource
 description: Game Theory Definitions, The Cournot Model, The Stackelberg Model, The
   Bertrand Model, Numeric Examples.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/807ba86e100d349ef73c294b9e720931_the_bsc_game_thy.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/807ba86e100d349ef73c294b9e720931_the_bsc_game_thy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: the_bsc_game_thy.pdf
 uid: 807ba86e-100d-349e-f73c-294b9e720931

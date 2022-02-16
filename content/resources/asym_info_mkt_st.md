@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource includes: Bargaining Games, The Lemons Problem, Adverse
   Selection, Solutions.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/051080ea22fe8e1bb9ab5fb60e2ee335_asym_info_mkt_st.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/051080ea22fe8e1bb9ab5fb60e2ee335_asym_info_mkt_st.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: asym_info_mkt_st.pdf
 uid: 051080ea-22fe-8e1b-b9ab-5fb60e2ee335

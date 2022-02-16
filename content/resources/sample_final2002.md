@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes 9 questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/413d29c3bb84c8ed47d0299c13c57fa9_sample_final2002.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/413d29c3bb84c8ed47d0299c13c57fa9_sample_final2002.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: sample_final2002.pdf
 uid: 413d29c3-bb84-c8ed-47d0-299c13c57fa9

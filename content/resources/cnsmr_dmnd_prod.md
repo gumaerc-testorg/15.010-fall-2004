@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Overview: Consumer Demand and Characteristics.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/2c0c0cec84dd3e7fec0a33ae7c5a2b0f_cnsmr_dmnd_prod.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/2c0c0cec84dd3e7fec0a33ae7c5a2b0f_cnsmr_dmnd_prod.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cnsmr_dmnd_prod.pdf
 uid: 2c0c0cec-84dd-3e7f-ec0a-33ae7c5a2b0f

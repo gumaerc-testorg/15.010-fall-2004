@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture Notes File.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/03cd0fd2548b11645a3848de81c1dc5b_contact_lenses.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/03cd0fd2548b11645a3848de81c1dc5b_contact_lenses.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: contact_lenses.pdf
 uid: 03cd0fd2-548b-1164-5a38-48de81c1dc5b

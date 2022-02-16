@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Overview: Credit Card Case.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/077c9cd78cf226b54bb1a731b813afcc_market_defintion.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/077c9cd78cf226b54bb1a731b813afcc_market_defintion.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: market_defintion.pdf
 uid: 077c9cd7-8cf2-26b5-4bb1-a731b813afcc

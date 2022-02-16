@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Introduction, Class Specifics and Requirements.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/d419cad8da93a107628481d86a08ab2a_crse_ovrview_mkt.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/d419cad8da93a107628481d86a08ab2a_crse_ovrview_mkt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: crse_ovrview_mkt.pdf
 uid: d419cad8-da93-a107-6284-81d86a08ab2a

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Handout on "Outsourcing Sales."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-010-economic-analysis-for-business-decisions-fall-2004/47a7be586cea5689ec4e6e12cfe97fe3_outsourcing_sale.pdf
+file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/47a7be586cea5689ec4e6e12cfe97fe3_outsourcing_sale.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: outsourcing_sale.pdf
 uid: 47a7be58-6cea-5689-ec4e-6e12cfe97fe3
