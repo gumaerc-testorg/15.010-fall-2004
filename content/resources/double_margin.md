@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: double_margin.pdf
 uid: 614445b1-710e-247d-7ed3-0a57ab3bd068

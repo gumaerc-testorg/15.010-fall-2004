@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: cnsmr_dmnd_prod.pdf
 uid: 2c0c0cec-84dd-3e7f-ec0a-33ae7c5a2b0f

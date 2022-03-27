@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: sample_mdtrm1999.pdf
 uid: 1ce5489a-479e-174d-d8f1-3be17f9f9d0a

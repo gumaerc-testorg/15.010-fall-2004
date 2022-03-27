@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: prc_disc_and_tar.pdf
 uid: 4b40fe47-5dcd-2420-bb40-3352af81e2b8

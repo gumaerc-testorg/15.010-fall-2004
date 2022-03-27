@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: samplefinal_1999.pdf
 uid: 4be64ae3-3615-959b-8cb9-63ddda370317

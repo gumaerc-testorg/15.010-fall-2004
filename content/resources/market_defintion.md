@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: market_defintion.pdf
 uid: 077c9cd7-8cf2-26b5-4bb1-a731b813afcc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0b3a262c-64b7-3098-997d-1b17e3557120
 resourcetype: Document
 title: 01_cmn_mistakes.pdf
 uid: 616511f4-c8bb-7824-7ec1-993edd359713

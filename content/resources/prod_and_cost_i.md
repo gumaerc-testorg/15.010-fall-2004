@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: prod_and_cost_i.pdf
 uid: dc3d1670-caa6-db28-2501-6e62abac7474

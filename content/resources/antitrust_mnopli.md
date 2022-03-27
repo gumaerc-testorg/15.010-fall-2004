@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: antitrust_mnopli.pdf
 uid: 018f8432-3a5a-113e-d7ce-0e8e3a7ab1f1

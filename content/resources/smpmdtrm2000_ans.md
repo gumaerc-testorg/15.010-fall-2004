@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: smpmdtrm2000_ans.pdf
 uid: c415a2fa-cd88-1627-3dac-ea5e5a533997

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: final_rev_hndout.pdf
 uid: a4688f6a-19a6-3881-cb4e-deeee352601c

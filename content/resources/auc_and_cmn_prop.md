@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: auc_and_cmn_prop.pdf
 uid: ce7c36a0-c805-723f-8d35-7aaa1c460bc2

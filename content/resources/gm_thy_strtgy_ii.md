@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: gm_thy_strtgy_ii.pdf
 uid: 46a5c7bf-9a85-b441-e5fe-ba5590d1d31f

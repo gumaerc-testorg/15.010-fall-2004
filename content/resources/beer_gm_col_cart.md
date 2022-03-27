@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: beer_gm_col_cart.pdf
 uid: bc550bd9-a3ce-a261-92b5-a7e78077d853

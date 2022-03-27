@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: the_bsc_game_thy.pdf
 uid: 807ba86e-100d-349e-f73c-294b9e720931

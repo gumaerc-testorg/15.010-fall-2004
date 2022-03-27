@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: inf_asym_tra_prc.pdf
 uid: 0716d283-a050-ce4b-dc9d-4d6837f1a1d3

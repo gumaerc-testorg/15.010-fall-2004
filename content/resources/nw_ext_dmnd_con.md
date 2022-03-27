@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: nw_ext_dmnd_con.pdf
 uid: 3c622721-c890-8ede-cd62-659aea359ed9

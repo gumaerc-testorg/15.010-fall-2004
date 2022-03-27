@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: smplfnl_2000_ans.pdf
 uid: e3d65eaf-6a24-6671-2fd8-6935fb3114f1

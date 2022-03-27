@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: surplus_anal_gov.pdf
 uid: 87e7046e-3643-9a3e-ad40-9368d9bdb48e

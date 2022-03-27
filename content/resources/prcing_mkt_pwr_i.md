@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: prcing_mkt_pwr_i.pdf
 uid: 7b498f0e-3fb1-733c-be1b-7a5469b84d3b

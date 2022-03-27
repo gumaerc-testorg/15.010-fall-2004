@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: smplmdtrm_99_ans.pdf
 uid: 3ee919ee-47da-b4f5-012b-c763a5b04f1a
