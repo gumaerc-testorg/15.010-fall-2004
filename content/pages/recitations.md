@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ Use of Supply and Demand Curves
 Review of Logarithms
 {{< tdclose >}}
 {{< tdopen >}}
-Market Definition, Elasticities and Surpluses ([PDF]({{< baseurl >}}/resources/mkt_elstic_srpl))
+Market Definition, Elasticities and Surpluses ({{% resource_link b49204f4-9ff0-e6d3-409a-e39d71466a6c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ R2
 Further Review of Supply and Demand
 {{< tdclose >}}
 {{< tdopen >}}
-Surplus Analysis with Government Intervention ([PDF]({{< baseurl >}}/resources/surplus_anal_gov))
+Surplus Analysis with Government Intervention ({{% resource_link 87e7046e-3643-9a3e-ad40-9368d9bdb48e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +60,7 @@ R3
 Review of the Economics of Production and Cost
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Production and Cost Concepts ([PDF]({{< baseurl >}}/resources/pro_and_cost_con))
+Review of Production and Cost Concepts ({{% resource_link bdb23d91-6d9e-06cd-ce7a-6376c4b6ea49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ R4
 Review of the Economics of Demand
 {{< tdclose >}}
 {{< tdopen >}}
-Network Externalities and Demand Concepts ([PDF]({{< baseurl >}}/resources/nw_ext_dmnd_con))
+Network Externalities and Demand Concepts ({{% resource_link 3c622721-c890-8ede-cd62-659aea359ed9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ R5
 Review of Market Power (Monopoly)
 {{< tdclose >}}
 {{< tdopen >}}
-Time Uncertainty and Market Power ([PDF]({{< baseurl >}}/resources/time_uncrtn_mkt))
+Time Uncertainty and Market Power ({{% resource_link 235c362b-5842-5d77-9647-029a7566a587 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +96,7 @@ R6
 Review of Pricing with Market Power
 {{< tdclose >}}
 {{< tdopen >}}
-Price Discrimination and Two Part Tariff ([PDF]({{< baseurl >}}/resources/prc_disc_and_tar))
+Price Discrimination and Two Part Tariff ({{% resource_link 4b40fe47-5dcd-2420-bb40-3352af81e2b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ R7
 Review of Game Theory
 {{< tdclose >}}
 {{< tdopen >}}
-The Basics of Game Theory ([PDF]({{< baseurl >}}/resources/the_bsc_game_thy))
+The Basics of Game Theory ({{% resource_link 807ba86e-100d-349e-f73c-294b9e720931 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +120,7 @@ R8
 Review of Game Theory, Collusion and Cartels
 {{< tdclose >}}
 {{< tdopen >}}
-The Beer Game Collusion and Cartels ([PDF]({{< baseurl >}}/resources/beer_gm_col_cart))
+The Beer Game Collusion and Cartels ({{% resource_link bc550bd9-a3ce-a261-92b5-a7e78077d853 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +132,7 @@ R9
 Review of Auctions and Common Property Resources
 {{< tdclose >}}
 {{< tdopen >}}
-Auctions and Common Property ([PDF]({{< baseurl >}}/resources/auc_and_cmn_prop))
+Auctions and Common Property ({{% resource_link ce7c36a0-c805-723f-8d35-7aaa1c460bc2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +144,7 @@ R10
 Review of Transfer Pricing and Asymmetric Information
 {{< tdclose >}}
 {{< tdopen >}}
-Information Asymmetry and Transfer Pricing ([PDF]({{< baseurl >}}/resources/inf_asym_tra_prc))
+Information Asymmetry and Transfer Pricing ({{% resource_link 0716d283-a050-ce4b-dc9d-4d6837f1a1d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

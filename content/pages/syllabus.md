@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,7 +21,7 @@ Overview
 
 ### Readings
 
-The assigned readings in this course have been selected to provide a balance of principles, tools, and applications; they are detailed in the [readings]({{< baseurl >}}/pages/readings) section. The basic text for the course is: Pindyck, Robert S., and Daniel L. Rubinfeld. _Microeconomics._ 5th ed. Upper Saddle River, NJ: Prentice-Hall, 27 July 2000. ISBN: 0130165832.
+The assigned readings in this course have been selected to provide a balance of principles, tools, and applications; they are detailed in the {{% resource_link 816a67c8-7c2e-bad0-49a7-aa5e1c3c6293 "readings" %}} section. The basic text for the course is: Pindyck, Robert S., and Daniel L. Rubinfeld. _Microeconomics._ 5th ed. Upper Saddle River, NJ: Prentice-Hall, 27 July 2000. ISBN: 0130165832.
 
 All other readings will be in a 15.010/15.011 course reader. Part of the work requirement for this course will involve a careful study of these readings. Students will be expected to have read the required material **before class**. Doing so will make the lectures much more profitable.
 

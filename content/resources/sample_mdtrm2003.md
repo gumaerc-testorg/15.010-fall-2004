@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 4 questions.
-file: /media/courses/15-010-economic-analysis-for-business-decisions-fall-2004/a54e146e308e029917ef1800b75f554d_sample_mdtrm2003.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/a54e146e308e029917ef1800b75f554d_sample_mdtrm2003.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: sample_mdtrm2003.pdf
 uid: a54e146e-308e-0299-17ef-1800b75f554d
 ---
+This resource includes 4 questions.
+
