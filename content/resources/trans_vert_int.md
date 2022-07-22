@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/4678c17
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: trans_vert_int.pdf
 uid: 4678c174-4e47-662b-9b0c-358f82760c5e
 ---
 Framework and Economic Principles, Cases Considered, Vertical Integration.
-

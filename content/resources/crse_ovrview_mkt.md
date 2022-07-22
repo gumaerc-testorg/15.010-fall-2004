@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/d419cad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: crse_ovrview_mkt.pdf
 uid: d419cad8-da93-a107-6284-81d86a08ab2a
 ---
 Introduction, Class Specifics and Requirements.
-

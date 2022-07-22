@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/d676092
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: insurance.pdf
 uid: d6760920-b63e-f880-25fc-74852e7fbd32
 ---
 Lecture Notes File.
-

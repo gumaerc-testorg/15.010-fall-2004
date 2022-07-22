@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/7f8acb5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: anti_ulcer_drugs.pdf
 uid: 7f8acb5c-0f9d-9730-fb6e-e646594b4371
 ---
 Graphs showing the demand of Anti-Ulcer Drugs.
-

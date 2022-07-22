@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/ce7c36a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: auc_and_cmn_prop.pdf
 uid: ce7c36a0-c805-723f-8d35-7aaa1c460bc2
 ---
 Auctions, Common Property Resources.
-

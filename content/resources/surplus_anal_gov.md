@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/87e7046
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: surplus_anal_gov.pdf
 uid: 87e7046e-3643-9a3e-ad40-9368d9bdb48e
 ---
 Review of Consumer and Producer Surplus, Government Intervention, Deadweight Loss and Numeric Examples.
-

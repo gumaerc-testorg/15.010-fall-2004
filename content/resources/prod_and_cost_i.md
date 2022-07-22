@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/dc3d167
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prod_and_cost_i.pdf
 uid: dc3d1670-caa6-db28-2501-6e62abac7474
 ---
 Production Processes, Economic versus Accounting Profits, Cost Concepts.
-

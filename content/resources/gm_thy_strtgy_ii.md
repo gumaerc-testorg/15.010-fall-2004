@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/46a5c7b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gm_thy_strtgy_ii.pdf
 uid: 46a5c7bf-9a85-b441-e5fe-ba5590d1d31f
 ---
 Overview: Fun and Games with Bidding Situations, Threats and commitments, Entry deterrence.
-

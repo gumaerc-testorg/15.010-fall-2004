@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/77997ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: clr_prcng_pwr_ii.pdf
 uid: 77997ca8-7d55-2cbf-102c-998e31ce137c
 ---
 Two-part Tariffs, Volume Pricing and Bundling.
-

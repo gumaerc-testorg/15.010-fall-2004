@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/c415a2f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: smpmdtrm2000_ans.pdf
 uid: c415a2fa-cd88-1627-3dac-ea5e5a533997
 ---
 This resource includes solutions for Mid Term Exam-2000.
-

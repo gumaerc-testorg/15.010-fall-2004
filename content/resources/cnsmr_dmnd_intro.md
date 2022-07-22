@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/57641ac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cnsmr_dmnd_intro.pdf
 uid: 57641ac5-5e4d-4068-c005-39c07031478e
 ---
 Demand: Demand for Anti-Ulcer Drugs, Modeling of Consumer Choice.
-

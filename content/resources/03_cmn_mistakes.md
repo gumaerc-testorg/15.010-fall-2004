@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/950effe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 03_cmn_mistakes.pdf
 uid: 950effe4-707b-e35c-c512-32aff3ca05ad
 ---
 This resource includes common mistakes for Assignment 3.
-

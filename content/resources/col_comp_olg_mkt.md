@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/84da60b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: col_comp_olg_mkt.pdf
 uid: 84da60bb-87b6-82b4-9f3b-0c3e40b324ce
 ---
 General Electric versus Westinghouse, Cartels.
-

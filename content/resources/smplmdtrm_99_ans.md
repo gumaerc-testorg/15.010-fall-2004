@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/3ee919e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: smplmdtrm_99_ans.pdf
 uid: 3ee919ee-47da-b4f5-012b-c763a5b04f1a
 ---
 This resource includes solutions for Mid Term Exam-1999.
-

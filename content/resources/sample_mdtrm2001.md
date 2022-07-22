@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/f163dfb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample_mdtrm2001.pdf
 uid: f163dfbd-0e4a-c8af-4bee-fa07086d28f1
 ---
 This resource includes 4 questions.
-

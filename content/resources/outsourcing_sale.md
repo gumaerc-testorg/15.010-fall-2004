@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/47a7be5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: outsourcing_sale.pdf
 uid: 47a7be58-6cea-5689-ec4e-6e12cfe97fe3
 ---
 Handout on "Outsourcing Sales."
-

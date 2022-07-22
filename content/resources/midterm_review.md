@@ -7,6 +7,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/92cbfbc
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: midterm_review.pdf
 uid: 92cbfbc9-5983-4e54-77a5-dad507df5e68
 ---
 Market Definition, Supply/Demand, Elasticities, Government Policies, Production/Cost/Network Externalities, Learning Curve, Dynamic Demand, Time and Uncertainty, Monopolies, Market Power.
-

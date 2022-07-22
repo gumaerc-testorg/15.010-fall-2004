@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/c0b7bf5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: limiting_mkt_pwr.pdf
 uid: c0b7bf56-6f39-63c2-54c2-00a343e57bb4
 ---
 Introduction to Anti-trust, Price Fixing, Monopolization, Other Practices and Common Property Resources.
-

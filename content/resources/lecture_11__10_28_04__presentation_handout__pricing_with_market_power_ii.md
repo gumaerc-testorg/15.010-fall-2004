@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/59c994d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture_11__10_28_04__Presentation_Handout__Pricing_with_Market_Power_II.
 uid: 59c994d4-5b41-d6c4-bda9-76ae40643d6a
 ---
 Two part Tariffs, Volume Pricing and Bundling.
-

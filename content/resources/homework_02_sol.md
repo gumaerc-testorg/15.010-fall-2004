@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/97ce7dd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework_02_sol.pdf
 uid: 97ce7dd5-cd53-06c0-1927-40f2fb02cc91
 ---
 This resource includes solutions for assignment 2.
-

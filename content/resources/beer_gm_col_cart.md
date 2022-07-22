@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/bc550bd
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: beer_gm_col_cart.pdf
 uid: bc550bd9-a3ce-a261-92b5-a7e78077d853
 ---
 The Beer Game, Collusion and Cartels, Numeric Example.
-

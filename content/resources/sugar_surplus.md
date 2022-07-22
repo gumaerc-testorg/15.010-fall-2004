@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/1e808a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sugar_surplus.pdf
 uid: 1e808a92-98af-0008-040c-cce0602cb8f0
 ---
 Consumer Surplus and the Sweetener Quota Analysis.
-

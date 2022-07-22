@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/a4688f6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_rev_hndout.pdf
 uid: a4688f6a-19a6-3881-cb4e-deeee352601c
 ---
 Two-part Tariffs, Bundling, Pricing, Transfer Pricing, Asymmetric Information, Cartels and Auctions, Externalities/Common Property and Game theory.
-

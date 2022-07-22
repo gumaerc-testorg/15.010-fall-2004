@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/44a5a9e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: uk_crdt_crd_case.pdf
 uid: 44a5a9eb-acb7-bc2d-6b0f-d76a2e98f099
 ---
 Questions for Case Discussion.
-

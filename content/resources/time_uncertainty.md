@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/cc37933
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: time_uncertainty.pdf
 uid: cc379337-1dc9-c354-e654-1b4b05564bf8
 ---
 Intertemporal Prices and Present Value, Uncertainty, Irreversible Investments and Option Value.
-

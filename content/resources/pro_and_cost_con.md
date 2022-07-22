@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/bdb23d9
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pro_and_cost_con.pdf
 uid: bdb23d91-6d9e-06cd-ce7a-6376c4b6ea49
 ---
 The Production Function, Economic Cost and User Cost of Capital, Cost concepts, Economies of Scale and Scope, Learning Curve Effects, Numeric Examples.
-

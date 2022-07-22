@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/c8b9e93
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gm_thry_strtgy_i.pdf
 uid: c8b9e936-d646-b493-0c35-0fcc0cab15f8
 ---
 Overview: Fun and Games with a Duopoly Example, Review of the Analytics.
-

@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/84a9b51
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_2004_ans.pdf
 uid: 84a9b51a-0165-94be-b329-de44e9f0f78d
 ---
 This resource includes answers to mid term exam 2004.
-

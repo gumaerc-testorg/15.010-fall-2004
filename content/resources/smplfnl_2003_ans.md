@@ -5,6 +5,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/09b41a2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: smplfnl_2003_ans.pdf
 uid: 09b41a2e-4c50-3d73-9f72-596da70dd462
 ---
 This resource includes solutions for Final Exam-2003.
-

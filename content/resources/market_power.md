@@ -6,6 +6,7 @@ file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/f953bfc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: market_power.pdf
 uid: f953bfcd-8322-b6f9-971e-adeb8d44d29e
 ---
 Competitive Equilibrium, Profit Maximization, Monopoly, Coordination of Multiple Plants and Pricing with Learning Effects and Network Externalities.
-
