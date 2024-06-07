@@ -3,6 +3,7 @@ content_type: resource
 description: Market Definition, Elasticities, Supply and Demand, Surplus, Numeric
   Example.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/b49204f49ff0e6d3409ae39d71466a6c_mkt_elstic_srpl.pdf
+file_size: 223612
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes solutions for Final Exam-2002.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/0484f0632654cead4cf72bf256fd7a8d_smplfnl_2002_ans.pdf
+file_size: 135031
 file_type: application/pdf
 learning_resource_types:
 - Exams
