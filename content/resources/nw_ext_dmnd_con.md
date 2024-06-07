@@ -2,6 +2,7 @@
 content_type: resource
 description: Network Externalities, Dynamic Demand and Elasticities, Numeric Examples.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/3c622721c8908edecd62659aea359ed9_nw_ext_dmnd_con.pdf
+file_size: 157289
 file_type: application/pdf
 learning_resource_types:
 - Recitations

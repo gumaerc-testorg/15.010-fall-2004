@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes 4 questions.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/f163dfbd0e4ac8af4beefa07086d28f1_sample_mdtrm2001.pdf
+file_size: 165250
 file_type: application/pdf
 learning_resource_types:
 - Exams
