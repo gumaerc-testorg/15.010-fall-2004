@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes 9 questions.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/43f8560981199d7fb6639a0fbe7a4d00_samplefinal_2001.pdf
+file_size: 159748
 file_type: application/pdf
 learning_resource_types:
 - Exams

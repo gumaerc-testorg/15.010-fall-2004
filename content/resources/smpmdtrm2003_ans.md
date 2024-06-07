@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes solutions for Mid Term Exam-2003.
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/1d699bcf3057fee8f8081e35756232cf_smpmdtrm2003_ans.pdf
+file_size: 119772
 file_type: application/pdf
 learning_resource_types:
 - Exams

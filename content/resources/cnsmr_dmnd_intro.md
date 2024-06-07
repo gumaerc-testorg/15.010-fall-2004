@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Demand: Demand for Anti-Ulcer Drugs, Modeling of Consumer Choice.'
 file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/57641ac55e4d4068c00539c07031478e_cnsmr_dmnd_intro.pdf
+file_size: 53194
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
