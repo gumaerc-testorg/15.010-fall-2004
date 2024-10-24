@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions for Mid Term Exam-2000.
-file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/c415a2facd8816273dacea5e5a533997_smpmdtrm2000_ans.pdf
+file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/c415a2facd8816273dacea5e5a533997_smpmdtrm2000_ans.pdf
 file_size: 110636
 file_type: application/pdf
 learning_resource_types:
