@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture note on Double Marginalization.
-file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/614445b1710e247d7ed30a57ab3bd068_double_margin.pdf
+file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/614445b1710e247d7ed30a57ab3bd068_double_margin.pdf
 file_size: 65893
 file_type: application/pdf
 learning_resource_types:
