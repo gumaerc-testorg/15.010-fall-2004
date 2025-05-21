@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions for Final Exam-2001.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/837ef6be0692379d3184bd2d83eca761_smplfnl_2001_ans.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/837ef6be0692379d3184bd2d83eca761_smplfnl_2001_ans.pdf
 file_size: 142109
 file_type: application/pdf
 learning_resource_types:

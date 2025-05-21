@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Auctions, Common Property Resources.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/ce7c36a0c805723f8d357aaa1c460bc2_auc_and_cmn_prop.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/ce7c36a0c805723f8d357aaa1c460bc2_auc_and_cmn_prop.pdf
 file_size: 182526
 file_type: application/pdf
 learning_resource_types:

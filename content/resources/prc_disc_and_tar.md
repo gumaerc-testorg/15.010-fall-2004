@@ -3,7 +3,7 @@ content_type: resource
 description: 'Conditions for Applying Price Discrimination, Perfect Price Discrimination,
   Consumer Self-Selection, Pricing to Observable Market Segments, Two part Tariff:
   Definition and Calculations, Numeric Examples.'
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/4b40fe475dcd2420bb403352af81e2b8_prc_disc_and_tar.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/4b40fe475dcd2420bb403352af81e2b8_prc_disc_and_tar.pdf
 file_size: 278213
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Effects of Production/Consumption not reflected in Market Transactions,
   Tragedy of the commons.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/79c2fdd5181103f93735edaa20595305_ext_mkt_struct.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/79c2fdd5181103f93735edaa20595305_ext_mkt_struct.pdf
 file_size: 53881
 file_type: application/pdf
 learning_resource_types:

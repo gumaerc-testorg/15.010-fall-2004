@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Opportunity Costs in Practice, Economies of Scale and Scope.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/94280b7a0146c1f69c8c9f574dac0977_prod_and_cost_ii.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/94280b7a0146c1f69c8c9f574dac0977_prod_and_cost_ii.pdf
 file_size: 175654
 file_type: application/pdf
 learning_resource_types:
