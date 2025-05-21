@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Price Discrimination and Types.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/7b498f0e3fb1733cbe1b7a5469b84d3b_prcing_mkt_pwr_i.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/7b498f0e3fb1733cbe1b7a5469b84d3b_prcing_mkt_pwr_i.pdf
 file_size: 93739
 file_type: application/pdf
 learning_resource_types:

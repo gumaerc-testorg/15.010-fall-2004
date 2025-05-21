@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Questions for Case Discussion.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/44a5a9ebacb7bc2d6b0fd76a2e98f099_uk_crdt_crd_case.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/44a5a9ebacb7bc2d6b0fd76a2e98f099_uk_crdt_crd_case.pdf
 file_size: 15115
 file_type: application/pdf
 learning_resource_types:

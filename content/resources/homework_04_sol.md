@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions for assignment 4.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/595e744c1cb78485bdff76adfb6edb44_homework_04_sol.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/595e744c1cb78485bdff76adfb6edb44_homework_04_sol.pdf
 file_size: 180789
 file_type: application/pdf
 learning_resource_types:

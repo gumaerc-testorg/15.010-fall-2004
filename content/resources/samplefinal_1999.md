@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 9 questions.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/4be64ae33615959b8cb963ddda370317_samplefinal_1999.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/4be64ae33615959b8cb963ddda370317_samplefinal_1999.pdf
 file_size: 168851
 file_type: application/pdf
 learning_resource_types:

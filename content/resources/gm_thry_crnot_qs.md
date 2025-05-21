@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem on game theory.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/e279f8cfb86026e688fb029fe220ee33_gm_thry_crnot_qs.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/e279f8cfb86026e688fb029fe220ee33_gm_thry_crnot_qs.pdf
 file_size: 89341
 file_type: application/pdf
 learning_resource_types:
