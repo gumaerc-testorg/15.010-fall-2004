@@ -2,7 +2,7 @@
 content_type: resource
 description: Review of Consumer and Producer Surplus, Government Intervention, Deadweight
   Loss and Numeric Examples.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/87e7046e36439a3ead409368d9bdb48e_surplus_anal_gov.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/87e7046e36439a3ead409368d9bdb48e_surplus_anal_gov.pdf
 file_size: 274025
 file_type: application/pdf
 learning_resource_types:

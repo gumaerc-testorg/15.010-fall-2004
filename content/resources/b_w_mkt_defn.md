@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Overview: Credit Card Case.'
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/6589762f075bcf24841bef52da77b684_b_w_mkt_defn.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/6589762f075bcf24841bef52da77b684_b_w_mkt_defn.pdf
 file_size: 61770
 file_type: application/pdf
 learning_resource_types:

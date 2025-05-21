@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Two-part Tariffs, Volume Pricing and Bundling.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/77997ca87d552cbf102c998e31ce137c_clr_prcng_pwr_ii.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/77997ca87d552cbf102c998e31ce137c_clr_prcng_pwr_ii.pdf
 file_size: 237835
 file_type: application/pdf
 learning_resource_types:

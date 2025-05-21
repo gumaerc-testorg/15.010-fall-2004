@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture Notes File.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/a4d77968a675ac39d952b7665de9a0a0_game_thry_philip.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/a4d77968a675ac39d952b7665de9a0a0_game_thry_philip.pdf
 file_size: 11724
 file_type: application/pdf
 learning_resource_types:

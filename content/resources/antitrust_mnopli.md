@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Some notes and quotes.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/018f84323a5a113ed7ce0e8e3a7ab1f1_antitrust_mnopli.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/018f84323a5a113ed7ce0e8e3a7ab1f1_antitrust_mnopli.pdf
 file_size: 22264
 file_type: application/pdf
 learning_resource_types:

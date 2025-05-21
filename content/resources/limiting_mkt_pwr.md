@@ -2,7 +2,7 @@
 content_type: resource
 description: Introduction to Anti-trust, Price Fixing, Monopolization, Other Practices
   and Common Property Resources.
-file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/c0b7bf566f3963c254c200a343e57bb4_limiting_mkt_pwr.pdf
+file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/c0b7bf566f3963c254c200a343e57bb4_limiting_mkt_pwr.pdf
 file_size: 74541
 file_type: application/pdf
 learning_resource_types:
