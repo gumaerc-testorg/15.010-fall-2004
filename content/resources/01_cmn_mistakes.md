@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes Common mistakes for 3 problem statements.
-file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/616511f4c8bb78247ec1993edd359713_01_cmn_mistakes.pdf
+file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/616511f4c8bb78247ec1993edd359713_01_cmn_mistakes.pdf
 file_size: 112894
 file_type: application/pdf
 learning_resource_types:
