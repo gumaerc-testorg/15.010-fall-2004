@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Production Processes, Economic versus Accounting Profits, Cost Concepts.
-file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/dc3d1670caa6db2825016e62abac7474_prod_and_cost_i.pdf
+file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/dc3d1670caa6db2825016e62abac7474_prod_and_cost_i.pdf
 file_size: 121649
 file_type: application/pdf
 learning_resource_types:
