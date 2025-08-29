@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Extra sources for problems.
-file: /courses/15-010-economic-analysis-for-business-decisions-fall-2004/d02b66bef95e31a233b7c9d8615d1c9f_extra_sources.pdf
+file: /ol-ocw-studio-app/courses/15-010-economic-analysis-for-business-decisions-fall-2004/d02b66bef95e31a233b7c9d8615d1c9f_extra_sources.pdf
 file_size: 26297
 file_type: application/pdf
 learning_resource_types:
